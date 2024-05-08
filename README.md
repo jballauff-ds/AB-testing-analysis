@@ -4,7 +4,7 @@ Data Science Exercise: Analyzing results from an AB-Test for different button la
 
 ## Background
 
-Case Study: The Library of Montana State University has a website that students use to find books and articles. Below the library picture, there is a search bar and three big items: “Find”, “Request” and “Interact”. However, the Website Analytics show that the “Interact” button has, ironically, almost no interactions. Throughout a two week testing period alternative button labels "Connect", "Learn", "Help" and "Service" were AB tested. The click-through rates (CTR) for the different buttons was used a a measure of performance.
+Case Study: The Library of Montana State University has a website that students use to find books and articles. Below the library picture, there is a search bar and three big items: “Find”, “Request” and “Interact”. However, the Website Analytics show that the “Interact” button has, ironically, almost no interactions. Throughout a two week testing period alternative button labels "Connect", "Learn", "Help" and "Service" were AB tested. The click-through rates (CTR) for the different buttons was used a measure of performance.
 
 ## Usage
 
